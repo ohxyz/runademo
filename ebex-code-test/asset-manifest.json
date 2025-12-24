@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ebex-code-test/static/css/main.2d8e19c0.chunk.css",
+    "main.js": "/ebex-code-test/static/js/main.5ce296b3.chunk.js",
+    "main.js.map": "/ebex-code-test/static/js/main.5ce296b3.chunk.js.map",
+    "runtime~main.js": "/ebex-code-test/static/js/runtime~main.a37d9cef.js",
+    "runtime~main.js.map": "/ebex-code-test/static/js/runtime~main.a37d9cef.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/ebex-code-test/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/ebex-code-test/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/ebex-code-test/index.html",
+    "precache-manifest.a911ed7cfdaa2001681a42942d01ac3a.js": "/ebex-code-test/precache-manifest.a911ed7cfdaa2001681a42942d01ac3a.js",
+    "service-worker.js": "/ebex-code-test/service-worker.js",
+    "static/css/main.2d8e19c0.chunk.css.map": "/ebex-code-test/static/css/main.2d8e19c0.chunk.css.map"
+  }
+}

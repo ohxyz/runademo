@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "ITC Avant Garde Pro";
+  src: url("http://www.runademo.com/share/fonts/ITCAvantGardePro/ITCAvantGardePro-Demi.otf") format("opentype");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("http://www.runademo.com/share/fonts/SourceSansPro/SourceSansPro-Regular.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Source Sans Pro Semi Bold";
+  src: url("http://www.runademo.com/share/fonts/SourceSansPro/SourceSansPro-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Source Sans Pro Bold";
+  src: url("http://www.runademo.com/share/fonts/SourceSansPro/SourceSansPro-Bold.ttf") format("truetype");
+}
+
+/*# sourceMappingURL=font-face.css.map */

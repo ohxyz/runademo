@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>AGL Code Test</title>
+    </head>
+    <body>
+        <div id="test-container-1"></div>
+        <div id="test-container-2"></div>
+        <div id="test-container-3"></div>
+        
+        <script src="js/vendor/jquery.min.js"></script>
+        <script src="js/vendor/lodash.min.js"></script>
+        <script src="js/ui.js"></script>
+        <script>
+            var $container1 = $( '#test-container-1');
+            var $container2 = $( '#test-container-2');
+            var $container3 = $( '#test-container-3');
+            
+            // Normal
+            $container1.append( UI.$buildList( [ 1, 2, 3 ], 'Numbers' ) );
+            
+            // Empty
+            $container2.append( UI.$buildList( [ ], 'Empty' ) );
+            
+            // Heading undefined
+            $container3.append( UI.$buildList( [ 'a', null, undefined, {}, [], 'b' ]) );
+        </script>
+    </body>
+</html>
